@@ -1,5 +1,7 @@
 package pl.krzysztofjastrzebski.pw.javasem3;
 
+import java.util.Scanner;
+
 public class Circle {
     private static double area;
     private static double radius;
@@ -22,6 +24,4 @@ public class Circle {
             System.out.println("=== KONIEC PROGRAMU ===");
         }
     }
-}
-
 }
